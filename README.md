@@ -1,4 +1,4 @@
-# Daytime : :bear::
+# Daytime :bear:
 
 #### Project in Javascript that interacts with user's local time. 
 
