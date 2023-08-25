@@ -1,4 +1,4 @@
-# Login :tulip:
+# Daytime :bear:
 
 #### Project in Javascript that interacts with user's local time. 
 
